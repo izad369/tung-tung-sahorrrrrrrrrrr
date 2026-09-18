@@ -1,0 +1,6 @@
+{
+  "name": "Horror House 3D VR",
+  "description": "A terrifying 3D VR escape room horror game: trapped in a dark haunted house with roaming monsters, hiding spots, and puzzles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
